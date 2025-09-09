@@ -5,12 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-👨🏻‍💻 About Me:
+👨🏻‍💻 Acerca de mi:
 
-- 🔭 I’m currently working on Google Workspace, databases
-- 🌱 I’m currently learning AWS, ethical hacking
-- 👯 I’m looking to collaborate on I’m looking to collaborate on
-- 🤔 I’m looking for help with ethical hacking
-- 💬 Ask me about databases
-- 👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned 🎉
+- 🔭 Actualmente estoy trabajando en Google Workspace, databases
+- 🌱 Actualmente estoy aprendiendo AWS, ethical hacking
+- 💬 Pregúntame sobre databases
+- 👨‍💻 Life Hack: Aprender nuevas tecnologías 🔥 y compartir lo que he aprendido 🎉
+
 
