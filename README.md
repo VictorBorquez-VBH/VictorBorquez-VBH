@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 -->
+👨🏻‍💻 About Me:
 
 - 🔭 I’m currently working on Google Workspace, databases
 - 🌱 I’m currently learning AWS, ethical hacking
