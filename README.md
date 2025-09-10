@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 <p>
 <img alt="php" src="https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4" height="25px"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&color=%234479A1" height="25px"/>
+<img alt="MySQL" src="" height="25px"/>
+<img alt="MySQL" src="" height="25px"/>
+<img alt="MySQL" src="" height="25px"/>
 
   
 
