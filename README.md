@@ -35,12 +35,10 @@ Here are some ideas to get you started:
 <img alt="AWS" src="https://img.shields.io/badge/AWS-black?style=for-the-badge" height="25px"/>
 <img alt="Joomla" src="https://img.shields.io/badge/Joomla-%235091CD?style=for-the-badge&logo=joomla&color=%23F4B942" height="25px"/>
 <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-white?style=for-the-badge&logo=wordpress&color=%2321759B" height="25px"/>
-<img alt="" src="" height="25px"/>
-<img alt="" src="" height="25px"/>
-<img alt="" src="" height="25px"/>
-
-  
-
+<img alt="Google Workspace" src="https://img.shields.io/badge/Google%20Workspace-white?style=for-the-badge&logo=google&color=%23F9AB00" height="25px"/>
+<img alt="Robótica Educativa" src="https://img.shields.io/badge/Robotica%20Educativa-white?style=for-the-badge&color=%231E8E3E" height="25px"/>
+<img alt="MariaDB" src="https://img.shields.io/badge/Mariadb-%23003545?style=for-the-badge&logo=mariadb&logoColor=%23003545&color=%23ECD53F" height="25px"/>
+<img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-%236C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=%23003545&color=%236C78AF" height="25px"/>
 </p>
 
 
