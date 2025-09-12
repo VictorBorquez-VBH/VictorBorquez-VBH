@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 
 ## 👨🏻‍💻 Acerca de mi:
 
+- 📚 Estudié Ingeniería en Informática Aplicada en la Universidad de Valparaíso en Chile
+
 - 🔭 Actualmente estoy trabajando en Google Workspace, databases
   
 - 🌱 Actualmente estoy aprendiendo AWS, ethical hacking
