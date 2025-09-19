@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25px"/>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-black?style=for-the-badge" height="25px"/>
-<img alt="Joomla" src="https://img.shields.io/badge/Joomla-%235091CD?style=for-the-badge&logo=joomla&color=%23F4B942" height="25px"/>
+<img alt="Joomla" src="https://img.shields.io/badge/Joomla-%23D71F00?style=for-the-badge&logo=joomla" height="25px"/>
 <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-white?style=for-the-badge&logo=wordpress&color=%2321759B" height="25px"/>
 <img alt="Google Workspace" src="https://img.shields.io/badge/Google%20Workspace-white?style=for-the-badge&logo=google&color=%23F9AB00" height="25px"/>
 <img alt="Robótica Educativa" src="https://img.shields.io/badge/Robotica%20Educativa-white?style=for-the-badge&color=%231E8E3E" height="25px"/>
