@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 <img alt="Robótica Educativa" src="https://img.shields.io/badge/Robotica%20Educativa-white?style=for-the-badge&color=%231E8E3E" height="25px"/>
 <img alt="MariaDB" src="https://img.shields.io/badge/Mariadb-%23003545?style=for-the-badge&logo=mariadb&logoColor=%23003545&color=%23ECD53F" height="25px"/>
 <img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-%236C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=%23003545&color=%236C78AF" height="25px"/>
+<img alt="Terraform" src="https://img.shields.io/badge/Terraform-%23844FBA?style=for-the-badge&logo=terraform&logoColor=black" height="25px"/>
 </p>
 
 
